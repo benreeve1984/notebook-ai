@@ -2,7 +2,7 @@
 
 Bring Claude into your Jupyter notebook for collaborative data analysis.
 
-**[See the demo notebook](examples/demo.ipynb)** for a quick tour of what's possible.
+**[See the demo notebook](https://htmlpreview.github.io/?https://github.com/benreeve1984/notebook-ai/blob/main/examples/demo.html)** for a quick tour of what's possible.
 
 ## Why?
 
