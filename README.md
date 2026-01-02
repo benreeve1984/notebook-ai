@@ -2,6 +2,8 @@
 
 Bring Claude into your Jupyter notebook for collaborative data analysis.
 
+**[See the demo notebook](examples/demo.ipynb)** for a quick tour of what's possible.
+
 ## Why?
 
 LLMs have transformed how we write code, but getting real value from them requires close collaboration—not just copy-pasting from a chatbot or hoping an autonomous agent figures things out.
