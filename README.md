@@ -21,7 +21,7 @@ This unlocks powerful workflows:
 ## Installation
 
 ```bash
-pip install "git+https://github.com/your-org/notebook-ai.git"
+pip install "git+https://github.com/benreeve1984/notebook-ai.git"
 ```
 
 ## Setup
